@@ -5,7 +5,7 @@ import { SiJavascript, SiExpress, SiSolidity, SiPostgresql, SiSequelize, SiMysql
 
 const techStacks = {
   "Front-End": ["React.js", "Vue.js", "JavaScript"],
-  "Back-End": ["Node.js", "Express.js", "Solidity", "C (Programming Language)"],
+  "Back-End": ["Node.js", "Express.js", "Solidity", "C Language"],
   "Database": ["PostgreSQL", "SQL", "Sequelize"],
   "Others / Tools": ["Git"]
 };
@@ -17,7 +17,7 @@ const techIcons = {
   "Node.js": <FaNodeJs className="text-3xl text-green-500 mx-auto mb-2" />,
   "Express.js": <SiExpress className="text-3xl text-gray-300 mx-auto mb-2" />,
   "Solidity": <SiSolidity className="text-3xl text-white mx-auto mb-2" />,
-  "C (Programming Language)": (
+  "C Language": (
     <div className="text-3xl text-blue-400 font-bold mx-auto mb-2">C</div>
   ),
   "PostgreSQL": <SiPostgresql className="text-3xl text-blue-400 mx-auto mb-2" />,
