@@ -32,7 +32,15 @@ const HeroSection = () =>{
           </p>
           <div>
             <button className='px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-red-500 via-orange-500 to-yellow-400 hover:bg-slate-800 text-white mt-3'>
-              <span className='block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2'>Download CV</span>
+              <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
+                <a 
+                  href="/PDF/Ishikawa-resume.pdf"
+                  download 
+                  className="text-white"
+                >
+                  Download CV
+                </a>
+              </span>
             </button>
           </div>
         </div>
