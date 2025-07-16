@@ -24,7 +24,7 @@ const HeroSection = () =>{
 
           <p className="text-[#ABD7BE] text-lg sm:text-xl mb-8 lg:text-2xl leading-relaxed">
             Software engineer committed to developing technology that empowers 
-            communities and delivers practical, user-focused solutions 
+            communities and delivers practical, user-focused solutions. 
             I thrive in collaborative environments, where I can exchange ideas, 
             support my teammates, and build meaningful products together. 
             Always eager to learn and improve, I bring both technical skill and a positive, 
